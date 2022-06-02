@@ -1,5 +1,7 @@
 # Compilado de conteúdo dos cursos realizados
-Um repositório para compilar todo o conteúdo que eu venho aprendendo com os cursos sobre estatística, data science, machine learning, deep learning e artificial intelligence.
+Um repositório para compilar todo o conteúdo que eu venho aprendendo com os cursos sobre estatística, data science, machine learning, deep learning e artificial intelligence.<br/>
+> Toda descrição, teoria e conceitos de cada tema específico estão detalhados dentro de cada arquivo notebook (extensão .ipynb). Portanto, basta acessar o arquivo para acompanhar a teoria juntamente com a parte prática.
+
 
 **Descrição de cada diretório:**
 * **DSA_DS-02-BigData Analytics com Python e Spark**: Se trata do segundo curso da formação cientista de dados da Data Science Academy: **Big Data RealTime Analytics ocm Python e Spark**. Este é um curso de análise de Big Data.  Para fazer esta análise e extrair conhecimento e valor dos dados, usaremos duas das principais ferramentas usadas por Cientistas de Dados: Python e Spark.<br/>
