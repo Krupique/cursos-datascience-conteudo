@@ -5,16 +5,19 @@ Um repositório para compilar todo o conteúdo que eu venho aprendendo com os cu
 
 **Descrição de cada diretório:**
 * **DSA_DS-02-BigData Analytics com Python e Spark**: Se trata do segundo curso da formação cientista de dados da Data Science Academy: **Big Data RealTime Analytics ocm Python e Spark**. Este é um curso de análise de Big Data.  Para fazer esta análise e extrair conhecimento e valor dos dados, usaremos duas das principais ferramentas usadas por Cientistas de Dados: Python e Spark.<br/>
- Link: https://www.datascienceacademy.com.br/course/analise-de-dados-com-python
+ Link: <a target="blank" href="https://www.datascienceacademy.com.br/course/analise-de-dados-com-python">Big Data Analytics Real Time com Python e Spark</a>
  
 * **DSA_DS-04-Machine Learning**: É o quarto curso da formação cientista de dados da DSA: **Machine Learning**. Todos os conceitos de Machine Learning são explicados em detalhes. Vamos acompanhar os principais algoritmos de Machine Learning e entender como implementá-los usando Python. O curso aborda: Regressão, Classificação, Decision Trees, Random Forest, Naive Bayes, Nearest Neighbours (KNN), K-Means, Support Vector Machines, Deep Learning, Processamento de Linguagem Natural, Redes Neurais e Sistemas de Recomendação.<br/>
- Link: https://www.datascienceacademy.com.br/course/machine-learning-engineer
+ Link: <a target="blank" href="https://www.datascienceacademy.com.br/course/machine-learning-engineer">Machine Learning<a>
+ 
+ * **DSA_DS-05-BusinessAnalytics**: Curso número 5 da formação cientista de dados: **Business Analytics**.  O objetivo deste curso é aplicar técnicas analíticas em áreas de negócio como Marketing, Finanças e RH, coletando dados, definindo métricas, criando modelos e extraindo insights que gerem valor para as empresas e suportem as tomadas de decisões.<br/>
+ Link: <a target="blank" href="https://www.datascienceacademy.com.br/course/anlise-de-dados-com-matlab">Business Analytics</a> 
  
 * **DSA_DS-06-VisualizaçãoDados**: Curso número 6 da formação cientista de dados: **Visualização de Dados e Design de Dashboards**. Este é um curso que ensina o aluno a contar uma história a partir dos dados, usando técnicas de apresentação, design, dashboards e estratégias de visualização em diversas ferramentas. Contar a história por trás dos dados é uma habilidade que pode ser aprendida e praticada.<br/>
- Link: https://www.datascienceacademy.com.br/course/cincia-de-dados-aplicada
+ Link: <a target="blank" href="https://www.datascienceacademy.com.br/course/cincia-de-dados-aplicada">Visualização de Dados</a> 
  
 * **DSA_IA-07-NLP-ReconhecimentoVoz**: Este é curso número 7 da formação inteligência artificial da Data Science Academy: **Processamento de Linguagem Natural e Reconhecimento de Voz**. Neste curso vamos entender o que acontece quando um comando de voz é enviado ao computador. Aqui  aprenderemos o que está por trás desta tecnologia e como utilizar processamento de linguagem natural e reconhecimento de voz utilizando o Deep Learning.<br/>
- Link: https://www.datascienceacademy.com.br/course/processamento-de-linguagem-natural-e-reconhecimento-de-voz
+ Link: <a target="blank" href="https://www.datascienceacademy.com.br/course/processamento-de-linguagem-natural-e-reconhecimento-de-voz">Natural Language Processing</a> 
 
 <br/>
 <hr/>
